@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Joe Charland</h1>
+<h1 align="center">Hi 👋, I'm Joseph Charland</h1>
 <h3 align="center">I'm a software developer based in Pittsburgh</h3>
 
 <h3 align="left">Languages and Tools:</h3> 
